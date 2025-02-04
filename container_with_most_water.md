@@ -1,3 +1,7 @@
+# container with most water
+
+## 題目
+
 ### 程式碼
 ```c++
 #include<iostream>
@@ -27,5 +31,3 @@ int main(){
     return 0;
 }
 ```
-
-### 解法
