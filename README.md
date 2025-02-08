@@ -63,3 +63,10 @@ int main(){
 
 ## 結論
 貪婪演算法提供一種簡單且通常有效的方法來解決複雜的問題，透過一系列的選擇得出最佳結果。從簡單的活動選擇到複雜的數據壓縮演算法皆能看到其身影。貪婪演算法直觀易懂，其效率在需要快速找出解決方案的問題十分好用。但由於貪婪演算法只執行一次，皆都是基於當前情況去計算，可能導致準確性問題，最終結果可能並非最佳解。
+
+## 參考資料
+[貪婪演算法學習教材](https://github.com/breezy-codes/Greedy-Algorithm)
+
+[LeetCode解題網站](https://leetcode.com/problemset/)
+
+[貪婪演算法筆記](https://medium.com/%E6%8A%80%E8%A1%93%E7%AD%86%E8%A8%98/%E6%BC%94%E7%AE%97%E6%B3%95%E7%AD%86%E8%A8%98%E7%B3%BB%E5%88%97-greedy-algorithm-%E8%B2%AA%E5%A9%AA%E6%BC%94%E7%AE%97%E6%B3%95-236f509200de)
